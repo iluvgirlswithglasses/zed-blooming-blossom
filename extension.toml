@@ -1,0 +1,7 @@
+authors = ["iluvgirlswithglasses <luunamdat204@gmail.com>"]
+description = "The matching theme with my PINK rice. Looks very nice when blurred."
+id = "blooming-blossom-theme"
+name = "Blooming Blossom"
+repository = "https://github.com/iluvgirlswithglasses/zed-blooming-blossom"
+schema_version = 1
+version = "1.0.0"
